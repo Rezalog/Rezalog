@@ -1,4 +1,4 @@
 - 👋 @Rezalog / ILWOONG KIM / KOREA
-- 👀 Blockchain web developer
+- 👀 Blockchain web Programmerr
 - 🌱 Solidity, DApp, Smart Contract
 - 📫 node.js, javascript, java
