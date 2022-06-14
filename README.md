@@ -5,5 +5,6 @@
 
 [Resume](https://github.com/Rezalog/Rezalog/files/8903635/_._.pdf)
 
-![image](https://user-images.githubusercontent.com/70252834/173679387-d60e4707-e1dd-4bf1-80b2-8267c803ecda.png)
-![image](https://user-images.githubusercontent.com/70252834/173680016-00410bba-e637-4587-90d5-079c79d0f9b8.png)
+[블록체인미들웨어_이력서_김일웅(드래그함) (1).pdf](https://github.com/Rezalog/Rezalog/files/8903687/_._.1.pdf)
+[블록체인미들웨어_이력서_김일웅(드래그함).pdf](https://github.com/Rezalog/Rezalog/files/8903683/_._.pdf)
+
