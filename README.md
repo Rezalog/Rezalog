@@ -3,5 +3,5 @@
 - 🌱 Solidity, DApp, Smart Contract
 - 📫 Node.js, Javascript, React, Java
 
-[Downloads Profile](https://github.com/Rezalog/Rezalog/files/8903635/_._.pdf)
+[Downloads Profile on PDF](https://github.com/Rezalog/Rezalog/files/8903635/_._.pdf)
 
