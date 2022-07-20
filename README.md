@@ -4,4 +4,4 @@
 - 📫 Node.js, Javascript, React, Java
 
 
-[Click to Downloads my profile on PDF!](https://github.com/Rezalog/Rezalog/files/9102703/_.pdf)
+[profile.pdf](https://github.com/Rezalog/Rezalog/files/9147000/_._compressed.pdf)
