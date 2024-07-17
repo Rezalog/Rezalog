@@ -1,3 +1,3 @@
-- 👋 @Rezalog / ILWOONG KIM / KOREA
+- Korean Software Engineer
 
 
